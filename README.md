@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg">
+  <img alt="github contribution grid snake animation" src="/github-metrics.svg">
 </picture>

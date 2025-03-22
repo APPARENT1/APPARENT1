@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APPARENT1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APPARENT1&langs_count=3)
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg">
   <source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg">
   <img alt="github contribution grid snake animation" src="/github-metrics.svg">
 </picture>
+![trophy](https://github-profile-trophy.vercel.app/?username=APPARENT1)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=APPARENT1)

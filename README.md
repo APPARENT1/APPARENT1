@@ -23,13 +23,11 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg">
   <img alt="github contribution grid snake animation" src="/github-metrics.svg">
 </picture>
-<picture>
-![trophy](https://github-profile-trophy.vercel.app/?username=APPARENT1)
 
-![APPARENT1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=APPARENT1)
-<picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/APPARENT1/APPARENT1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/APPARENT1/APPARENT1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/APPARENT1/APPARENT1/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![APPARENT1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=APPARENT1&theme=merko)](https://github.com/APPARENT1/github-readme-activity-graph)

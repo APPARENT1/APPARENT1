@@ -8,6 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     environment:
       name: production
